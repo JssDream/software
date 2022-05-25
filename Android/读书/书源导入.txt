@@ -1,0 +1,14 @@
+首先在软件个人中心页面点击 “ 书源管理 ”，然后点击 “ 网络导入 ”。
+书源地址：https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json书源导入完成
+
+
+书源导入位置在我的—书源管理—右上角网络导入即可。
+书源合集链接存在同一时间使用人数太多崩溃的情况，或者被屏蔽的情况，请大家耐心一点，实在不行就晚点再来。
+1.namofree大佬的书源：（通用，精简，比较适合大多数人）
+http://shuyuan.miaogongzi.net/shuyuan/1622509629.json
+
+2.一程大佬的书源合集：（通用，精简，比较适合大多数人）
+http://shuyuan.miaogongzi.net/shuyuan/1622744487.json
+
+3.乃星大佬的女频书源合集：
+http://shuyuan.miaogongzi.net/shuyuan/1623355431.json
